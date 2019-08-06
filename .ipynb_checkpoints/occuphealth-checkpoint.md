@@ -70,10 +70,7 @@ date: 7th August, 2019
 > In which, sicker workers are likely to stay home and healthier workers are over-represented in the worker pool; This leads to lower estimation of diseases when workplace surveys are conducted
 
 ## Principle 5: Workplace surveillance is unique to occupational health
-
-----------
-
-- You must know what toxins are present in the workplace to understand possible health conditions that can arise in the workplace
+- You must know what toxins are present in the workplace 
 - Your cohort of workers are readily identifiable and you can follow them over time
 - This principle is referred to as sentinel surveillance
 - You can identify first cases of diseases among the workers faster
