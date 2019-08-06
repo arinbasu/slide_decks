@@ -4,26 +4,28 @@ title: Introduction to Occupational Health
 date: 7th August, 2019
 ---
 
-## Introduction to Occupational health
+### Introduction to Occupational health
 
 - Occupational health 
 - Health of occupations
 
-## Question for the class to start with
+### Question for the class to start with
 
 > In your organisation, you are responsible for health and well-being for the employees. A newly appointed employee, whom you do not know, seeks your appointment and tells you that he suffers from fear of heights. What question would you ask him?
 
-## Respond to the question at:
+### Respond to the question at:
 
 [Click here to access the poll](https://www.wooclap.com/OCCENV)
 
 [](https://app.wooclap.com/OCCENV)
 
-## See the results at
+### See the results at
 
-[](https://app.wooclap.com/events/OCCENV/0)
+[https://app.wooclap.com/events/OCCENV/0](https://app.wooclap.com/events/OCCENV/0)
 
-## Seven principles of occupational health
+### Seven principles of occupational health
+
+--------
 
 - Protect, adapt, and promote care
 - Occupational health is a distinct subset of environmental health
@@ -33,47 +35,48 @@ date: 7th August, 2019
 - Occupational health has long established traditions
 - Haddon Matrix
 
-## Protect adapt, care and promote
-- Adapt the work to the worker and worker to the work
+### Adapt the work to the worker and worker to the work
 
-## Garden worker
+### Garden worker
 > You are working as a health scientist looking after employee health for people working in a garden. What will you do?
 
 [Click here to visit the question](https://www.wooclap.com/OCCENV)
 
-## Principle 2: Protect workers from illnesses and prevent illnesses among workers
+### Principle 2: Protect workers from illnesses and prevent illnesses among workers
 - Must be able to identify harmful exposure
 - Must be able to assess the risks
 - Must be able to prevent illnesses
 
-## Principle 3: Promote health and well-being of all workers
+### Principle 3: Promote health and well-being of all workers
 - Study how people work best
 - Arrange for best adjusted work environment
 - Arrange for curative and rehabilitative services when they are availabe
 - Establish primary care services
 
-## Sewage treatment plant worker
+### Sewage treatment plant worker
 
 [Click here to visit the question](https://www.wooclap.com/OCCENV)
 
-## Princple 4: Occupational health is a subset of environmental health
+### Princple 4: Occupational health is a subset of environmental health
 - Workers tend to be exposed for longer duration and higher intensity of exposure
 - Workers tend to be healthier and younger than the members of the general public
 
-## Studying illnesses at a workplace
+### Studying illnesses at a workplace
 
 [Click here to visit the question](https://www.wooclap.com/OCCENV)
 
-## Healthy worker effect
+### Healthy worker effect
 
 > In which, sicker workers are likely to stay home and healthier workers are over-represented in the worker pool; This leads to lower estimation of diseases when workplace surveys are conducted
 
-## Principle 5: Workplace surveillance is unique to occupational health
+### Principle 5: Workplace surveillance is unique to occupational health
 
 - You must know what toxins are present in the workplace to understand possible health conditions that can arise in the workplace
 - Your cohort of workers are readily identifiable and you can follow them over time
 - This principle is referred to as sentinel surveillance
 - You can identify first cases of diseases among the workers faster
+
+------
 
 <div>
 <style scoped>
@@ -126,14 +129,16 @@ date: 7th August, 2019
   </tbody>
 </table>
 </div>
-
-
+----------
 
 ## Risk of hepatitis among different professional groups
 
+------
 ![](occ.png)
 
 ## Risk of liver cancer among different professional groups
+
+-------
 ![](liver_ca.png)
 
 ## Haddon Matrix
@@ -145,6 +150,8 @@ date: 7th August, 2019
 | Post-event    |              |       |              |                   |
 
 ## Haddon Matrix for Motor Vehicle Accident management
+
+---------
 
 | Factor Phase | Human   | Agent | Physical Env  | Sociocultural Env |
 |--------------|---------|-------|---------------|-------------------|
