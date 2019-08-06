@@ -134,13 +134,15 @@ date: 7th August, 2019
 ## Risk of hepatitis among different professional groups
 
 ------
-![](occ.png)
+![Hepatitis](occ.png)
 
+-------
 ## Risk of liver cancer among different professional groups
 
 -------
 ![](liver_ca.png)
 
+-------
 ## Haddon Matrix
 
 | Factor phases | Human factor | Agent | Physical Env | Sociocultural Env |
